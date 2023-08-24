@@ -1,0 +1,32 @@
+.button{
+    transition: 0.3s;
+    width: 250px;
+    background-color: white;
+    border: 1px solid #272727;
+    border-radius: 5px;
+    margin-top: 40px;
+    height: 50px;
+    align-self: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover{
+   transition: 0.3s;
+   background-color: #272727;
+   color: white;
+   scale: 1.05;
+}
+
+.button:active{
+    transition: 0.3s;
+    scale: 0.97;
+ }
+ 
+.button-text{
+    flex: 1;
+    text-align: center;
+    align-self: center;
+
+}

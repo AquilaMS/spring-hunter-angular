@@ -1,0 +1,57 @@
+.all-content{
+    margin-top: 100px;
+    margin: 15px;
+}
+
+.choice-background{
+    display: flex;
+    margin: -10px;
+    margin-top: 5px;
+}
+
+.section-title{
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.choice-card{
+    transition: 0.3s;
+    flex: 1;
+    box-shadow:  2px 2px 10px 1px #272727;
+    margin: 10px;
+    text-align: center;
+    border-radius: 3px;
+    height: 200px;
+}
+
+.choice-card:hover{
+    box-shadow:  2px 2px 10px 4px #5a5a5a;
+    transition: 0.4s;
+    scale: 1.015;
+}
+
+.choice-card:active{
+    transition: 0.1s;
+    scale: 0.99;
+    background-color: #272727;
+    color: white;
+}
+
+.choice-text-title{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.choice-text-description{
+    margin: 10px;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+.choice-text-cost{
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: bold;
+}

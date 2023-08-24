@@ -1,0 +1,45 @@
+.all-content{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.hero-text-infos{
+   flex: 6;
+   text-align: left; 
+}
+
+.name{
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.class{
+    font-size: 15px;
+    font-weight: bold;
+    color: #707070;
+    margin-top: -3px;
+    text-transform: capitalize;
+}
+
+.level{
+    font-size: 15px;
+    font-weight:bolder;
+    margin-top: -3px;
+}
+
+.hero-status{
+    flex: 1;
+    font-weight:lighter;
+    font-size: 20px;
+}
+
+img{
+    width: 25px;
+    margin-right: 3px;
+}
+
+.line-status{
+    display: flex;
+    margin-right: 50px;
+}

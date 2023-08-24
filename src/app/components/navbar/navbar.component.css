@@ -1,0 +1,12 @@
+.center-bar{
+    width: 100%;
+}
+
+.logo{
+    width: 50px;
+    margin-top: 7px;
+    align-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
