@@ -1,2 +1,5 @@
 # spring-hunter-angular
-Front-end em Angular de um jogo Roquelike desenvolvido em Java
+
+W.I.P.
+
+Front-end em Angular de um jogo Roquelike desenvolvido em Java.
